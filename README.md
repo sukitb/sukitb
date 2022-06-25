@@ -4,16 +4,16 @@
 ### :man_technologist: About me
 
 <table>
-    <tr>
-        <td>
-            <p>I'm a self-taught developer in Thailand. </p>
-            <p>Before I started coding I was a teaching fellow for 2 years at <a href="">Teach For Thailand</a> where I realized my passion is solving problem for people and what is it important to lifelong learning.</p>
-            <p>I started my coding journey at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. Currently, I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by <a href="https://thailand.generation.org">Generation Thailand</a>.</p>
-        </td>
-        <td>
-            <img src="asset\avatar.png"> 
-        </td>
-    <tr>
+<tr>
+<td>
+<p>I'm a self-taught developer in Thailand. </p>
+<p>Before I started coding I was a teaching fellow for 2 years at <a href="">Teach For Thailand</a> where I realized my passion is solving problem for people and what is it important to lifelong learning.</p>
+<p>I started my coding journey at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. Currently, I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by <a href="https://thailand.generation.org">Generation Thailand</a>.</p>
+</td>
+<td>
+<img src="asset\avatar.png"> 
+</td>
+<tr>
 </table>
 
 <p align="center">
@@ -24,12 +24,15 @@
 </p>
 
 ### :hammer_and_wrench: Languages and Tools
-<img alt="html5" width="9%" src="asset\icon\html5-plain.svg">
-<img alt="css3" width="9%" src="asset\icon\css3-plain.svg">
-<img alt="bootstrap" width="9%" src="asset\icon\bootstrap-plain.svg">
-<img alt="javascript" width="9%" src="asset\icon\javascript-plain.svg">
-<img alt="git" width="9%" src="asset\icon\git-plain.svg">
 
+<p>
+<img alt="html5" width="40" height="40" src="asset\icon\html5-plain.svg">&nbsp;
+<img alt="css3" width="40" height="40" src="asset\icon\css3-plain.svg">&nbsp;
+<img alt="bootstrap" width="40" height="40" src="asset\icon\bootstrap-plain.svg">&nbsp;
+<img alt="javascript" width="40" height="40" src="asset\icon\javascript-plain.svg">&nbsp;
+<img alt="git" width="40" height="40" src="asset\icon\git-plain.svg">&nbsp;
+</p>
+    
 <!-- will update later
 <img alt="react" width="9%" src="asset\icon\react-original.svg">
 <img alt="nodejs" width="9%" src="asset\icon\nodejs-plain.svg">
