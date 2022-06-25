@@ -1,20 +1,44 @@
-## Hi there 👋, This is Sukit Bunsiri
-### I have been a problem solver for all my life.
+<h1 align="center"> Hi there 👋, This is Sukit Bunsiri </h1>
+<h4 align="center"> I have been a problem solver for all my life. </h4>
 
-![banner](https://user-images.githubusercontent.com/100616257/175336300-8b48dd07-96ce-4380-9371-2a923914ee6c.jpg)
+### :man_technologist: About me
 
-I'm a self-taught developer in Thailand. Currently, I'm learner in Junior Sofrware Developer (Fullstack) bootcamp by [Generation Thailand](https://thailand.generation.org/).
+<table>
+    <tr>
+        <td>
+            <p>I'm a self-taught developer in Thailand. </p>
+            <p>Before I started coding I was a teaching fellow for 2 years at <a href="">Teach For Thailand</a> where I realized my passion is solving problem for people and what is it important to lifelong learning.</p>
+            <p>I started my coding journey at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. Currently, I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by <a href="https://thailand.generation.org">Generation Thailand</a>.</p>
+        </td>
+        <td>
+            <img src="asset\avatar.png"> 
+        </td>
+    <tr>
+</table>
 
-#### Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+<a target="_blank" href="https://github.com/sukitb"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/sukit-bunsiri-2a2020203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a target="_blank" href="https://sukitbunsiri.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+</p>
 
-#### Currently learning on
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### :hammer_and_wrench: Languages and Tools
+<img alt="html5" width="9%" src="asset\icon\html5-plain.svg">
+<img alt="css3" width="9%" src="asset\icon\css3-plain.svg">
+<img alt="bootstrap" width="9%" src="asset\icon\bootstrap-plain.svg">
+<img alt="javascript" width="9%" src="asset\icon\javascript-plain.svg">
+<img alt="git" width="9%" src="asset\icon\git-plain.svg">
 
-#### Working on Projects
-| Project        | Description | Skills | Note |
-|----------------|-------------|--------|------|
-| Colmar Academy |Responsive web design|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)|Capstone project from [Codecademy](https://www.codecademy.com/learn/paths/learn-how-to-build-websites)|
+<!-- will update later
+<img alt="react" width="9%" src="asset\icon\react-original.svg">
+<img alt="nodejs" width="9%" src="asset\icon\nodejs-plain.svg">
+<img alt="express" width="9%" src="asset\icon\express-original.svg">
+<img alt="mongodb" width="9%" src="asset\icon\mongodb-plain.svg"> -->
 
-#### Blog 
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+
+--- 
+<div align="center"> 
+    <img width="50%" src="asset\download.gif">
+</div>
