@@ -42,6 +42,6 @@
 
 
 --- 
-<div align="center"> 
-    <img width="50%" src="asset\download.gif">
-</div>
+
+<img width="50%" src="asset\download.gif">
+
