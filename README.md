@@ -10,9 +10,6 @@
 <p>Before I started coding I was a teaching fellow for 2 years at <a href="">Teach For Thailand</a> where I realized my passion is solving problem for people and what is it important to lifelong learning.</p>
 <p>I started my coding journey at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. Currently, I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by <a href="https://thailand.generation.org">Generation Thailand</a>.</p>
 </td>
-<td>
-<img src="asset\avatar.png"> 
-</td>
 <tr>
 </table>
 
