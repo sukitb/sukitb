@@ -29,10 +29,10 @@
 <img alt="bootstrap" width="40" height="40" src="asset\icon\bootstrap-plain.svg">&nbsp;
 <img alt="javascript" width="40" height="40" src="asset\icon\javascript-plain.svg">&nbsp;
 <img alt="git" width="40" height="40" src="asset\icon\git-plain.svg">&nbsp;
-<img alt="react" width="9%" src="asset\icon\react-original.svg">&nbsp;
-<img alt="nodejs" width="9%" src="asset\icon\nodejs-plain.svg">&nbsp;
-<img alt="express" width="9%" src="asset\icon\express-original.svg">&nbsp;
-<img alt="mongodb" width="9%" src="asset\icon\mongodb-plain.svg">&nbsp;
+<img alt="react" width="40" height="40" src="asset\icon\react-original.svg">&nbsp;
+<img alt="nodejs" width="40" height="40" src="asset\icon\nodejs-plain.svg">&nbsp;
+<img alt="express" width="40" height="40" src="asset\icon\express-original.svg">&nbsp;
+<img alt="mongodb" width="40" height="40" src="asset\icon\mongodb-plain.svg">&nbsp;
 </p>
     
 
