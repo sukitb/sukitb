@@ -1,12 +1,6 @@
 <h1 align="center"> Hi there 👋, This is Sukit Bunsiri </h1>
 <h4 align="center"> I have been a problem solver for all my life. </h4>
 
-### :man_technologist: About me
-
-<p>I'm a self-taught developer in Thailand. </p>
-<p>Before I started coding I was a teaching fellow for 2 years at <a href="">Teach For Thailand</a> where I realized my passion is solving problem for people and what is it important to lifelong learning.</p>
-<p>I started my coding journey at <a href="https://www.freecodecamp.org">freeCodeCamp</a>. Currently, I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by <a href="https://thailand.generation.org">Generation Thailand</a>.</p>
-
 ### :hammer_and_wrench: Languages and Tools
 
 <p>
